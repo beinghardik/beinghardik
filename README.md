@@ -51,11 +51,11 @@ a.k.a beinghardik. I'm a 20 year old CS Major student, Coding Enthusiast by Pass
 
 <br >
 
-![Hardik's Github Stats](https://github-readme-stats.vercel.app/api?username=beinghardik & show_icons=true&hide_border=true)
+![Hardik's Github Stats](https://github-readme-stats.vercel.app/api?username=beinghardik&show_icons=true&hide_border=true)
 
 <br >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beinghardik & theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beinghardik&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
 <br>
